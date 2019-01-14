@@ -1,0 +1,17 @@
+{  
+    "stories" : [
+        "key1" : {
+            "text" : "...",
+            "numberOfLikes": 0,
+            "numberOfAngry": 0
+            
+        },
+        "key2" : {
+            "text" : "...",
+            "numberOfLikes": 0,
+            "numberOfAngry": 0
+            
+        },
+    ]
+    
+}
